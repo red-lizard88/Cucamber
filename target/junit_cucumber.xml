@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="7.665">
+    <testcase classname="As a user I want to get ability to use menu sections" name="Docs sections should contains appropriate columns" time="7.441">
+        <system-out><![CDATA[Given the user opens Cucumber website.......................................passed
+When the user clicks on the "Docs" section..................................passed
+And the user clicks on the "Gherkin Syntax" item............................passed
+Then page with title "Gherkin Syntax" is displayed..........................passed
+Then the following links are displayed......................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
